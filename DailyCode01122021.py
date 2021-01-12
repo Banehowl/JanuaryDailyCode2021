@@ -4,13 +4,13 @@
 #   Coded by: Banehowl
 # ------------------------------------------------------
 
-# A Module is a peice of software that has a specific fuctionality. For example, when building a ping pong
+# A Module is a piece of software that has a specific functionality. For example, when building a ping pong
 # game, one module would be responsible for the game logic, and another module would be responsible for
-# drawing the game on the screen. Each module is a different file, which can be edited seperately.
+# drawing the game on the screen. Each module is a different file, which can be edited separately.
 
 # Writing modules
 # Modules in Python is simply python files with the .py extension. The name of the module will be the
-# name of the file. A Python module can have a set of fuctions, classes, or variables defined and
+# name of the file. A Python module can have a set of functions, classes, or variables defined and
 # implemented
 
 # In the ping pong example above, the files would be organized below:
