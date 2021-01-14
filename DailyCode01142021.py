@@ -1,0 +1,21 @@
+# --------------------------------------------
+#	Daily Code	01/12/2021
+#   "Generators" Lesson from learnpython.org
+#   Coded by: Banehowl
+# --------------------------------------------
+
+# Example of a generator function which returns 7 random integers:
+import random # this import item is pretty standard with python. no download needed
+
+def lottery():
+    # returns 6 numbers between 1 and 40
+    for i in range(6):
+        yield random.randint(1, 40)
+
+    # returns a 7th number between 1 and 15
+    yield random.randint(1, 15)
+
+for random_number in lottery():
+    print("And the number is ...%d!" % (random_number))
+
+
