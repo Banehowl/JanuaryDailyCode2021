@@ -1,5 +1,5 @@
 # -----------------------------------------------------
-#	Daily Code	01/12/2021
+#	Daily Code	01/15/2021
 #   "List Comprehensions" Lesson from learnpython.org
 #   Coded by: Banehowl
 # -----------------------------------------------------
