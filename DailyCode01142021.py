@@ -1,5 +1,5 @@
 # --------------------------------------------
-#	Daily Code	01/12/2021
+#	Daily Code	01/14/2021
 #   "Generators" Lesson from learnpython.org
 #   Coded by: Banehowl
 # --------------------------------------------
