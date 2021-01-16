@@ -1,5 +1,5 @@
 # ----------------------------------------------
-#	Daily Code	01/16/2021
+#	Daily Code	01/13/2021
 #   "Numpy Arrays" Lesson from learnpython.org
 #   Coded by: Banehowl
 # ----------------------------------------------
