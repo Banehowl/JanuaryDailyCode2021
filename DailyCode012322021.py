@@ -1,5 +1,5 @@
 # ----------------------------------------------------
-#	Daily Code	01/22/2021
+#	Daily Code	01/23/2021
 #   "Code Introspection" Lesson from learnpython.org
 #   Coded by: Banehowl
 # ----------------------------------------------------
